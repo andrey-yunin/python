@@ -19,6 +19,8 @@ food.insert(0, "meat")
 food.sort()
 food.clear()
 
+
+
 for j in food:
     print(j)
 
